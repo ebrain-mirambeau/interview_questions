@@ -34,6 +34,6 @@ public Double popMax(){
 	return currentMax;
 }
 
-public void peekMax(){
+public Double peekMax(){
 	return max;
 	}
